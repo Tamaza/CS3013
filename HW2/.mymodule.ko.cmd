@@ -1,0 +1,1 @@
+cmd_/home/tazeey/Desktop/project2/mymodule.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/tazeey/Desktop/project2/mymodule.ko /home/tazeey/Desktop/project2/mymodule.o /home/tazeey/Desktop/project2/mymodule.mod.o
